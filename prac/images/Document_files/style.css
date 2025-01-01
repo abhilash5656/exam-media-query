@@ -1,0 +1,116 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+.background img{
+    height: 941px;
+    width: 100%;
+}
+.form{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    height: 600px;
+    width: 500px;
+    background-color: white;
+}
+.form b{
+    font-size: 30px;
+    padding-left: 20%;
+}
+.form p{
+  position: absolute;
+  top: 55px;
+  left: 20px;
+    
+}
+
+.name input{
+    height: 40px;
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-decoration:none ;
+    border: 0px;
+}
+
+
+.line{
+    height: 2px;
+    width: 90%;
+    background-color: rgb(133, 132, 132);
+    margin-left: 20px;
+}
+
+.email input{
+    height: 40px;
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-decoration:none ;
+    border: 0px;
+}
+.line2{
+    height: 2px;
+    width: 90%;
+    background-color: rgb(133, 132, 132);
+    margin-left: 20px;
+}
+.head p{
+    margin-top: 90px;
+}
+.head2 p{
+    margin-top: 190px;
+
+}
+.number input{
+    height: 40px;
+    width: 90%;
+    margin-top: 60px;
+    margin-left: 20px;
+    text-decoration:none ;
+    border: 0px;
+}
+.line3{
+    height: 2px;
+    width: 90%;
+    background-color: rgb(133, 132, 132);
+    margin-left: 20px;
+}
+.head3 p{
+    margin-top: 290px;
+}
+.pass input{
+    height: 40px;
+    width: 90%;
+    margin-top: 60px;
+    margin-left: 20px;
+    text-decoration:none ;
+    border: 0px;
+}
+.line4{
+    height: 2px;
+    width: 90%;
+    background-color: rgb(133, 132, 132);
+    margin-left: 20px;
+}
+.button img{
+    height: 50px;
+    width: 50%;
+    border-radius: 100px;
+    margin-top:60px;
+    margin-left: 120px;
+    
+}
+.click button{
+
+    height: 40px;
+    width: 40%;
+    background-image: url("images/depositphotos_489854724-stock-illustration-light-multicolor-rainbow-vector-abstract.jpg");
+   text-decoration: none;
+    border: 2   px gray ;
+    margin-top: 50px;
+    margin-left: 110px;
+}
